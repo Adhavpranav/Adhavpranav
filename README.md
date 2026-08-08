@@ -1,5 +1,5 @@
 # 💫 About Me: **Hey there 👋, I am Pranav Adhav**
-🌱 I’m currently learning **BSC Computer Science**<br>🔭 I’m currently working on **DSA**<br>💬 Ask me about your **coding doubts**.<br>⚡ Fun fact **I enjoy debugging almost as much as coding😂**.
+🌱 Currently pursuing my **Master’s** in **Computer Science**<br>🔭 Currently learning **Java, DSA & Backend Development**<br>💬 Ask me about your **coding doubts**.<br>⚡ Fun fact **I enjoy debugging almost as much as coding😂**.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com//its_pranav064/#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-adhav-5538372a0/) 
